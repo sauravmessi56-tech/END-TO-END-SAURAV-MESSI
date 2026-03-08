@@ -1295,4 +1295,5 @@ elif not st.session_state.key_approved:
 else:
     main_app()
 
+
 st.markdown('<div class="footer">Made with  by Saurav Messi | � 2026-27</div>', unsafe_allow_html=True)
